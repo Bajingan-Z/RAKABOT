@@ -11,14 +11,13 @@ Klick di 👉[SINI](https://f-droid.org/repo/com.termux_117.apk), Untuk Mendownl
 
 # INSTALL BAHAN
 `````
-rm -rf RAKA_ZT
+rm -rf RAKABOT
 pkg update && pkg upgrade
-pkg install python git
-python -m pip install requests
-python -m pip install bs4
-python -m pip install futures
-python -m pip install rich
-git clone https://github.com/Bajingan-Z/RAKA_ZT
-cd RAKA_ZT
-python RAKA_ZT.py
+pkg install python
+pip install requests
+pip install bs4
+pip install rich
+git clone https://github.com/Bajingan-Z/RAKABOT
+cd RAKABOT
+python RAKABOT.py
 
