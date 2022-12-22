@@ -17,6 +17,7 @@ pkg install python
 pip install requests
 pip install bs4
 pip install rich
+pkg install git
 git clone https://github.com/Bajingan-Z/RAKABOT
 cd RAKABOT
 python RAKABOT.py
