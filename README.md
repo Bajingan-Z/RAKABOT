@@ -1,9 +1,6 @@
 # RAKABOT <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
-![Screenshot_20221221-121420_Termux](https://user-images.githubusercontent.com/95204908/208828406-36ff7ed7-0f72-4ae8-ad91-9b7c616287c4.jpg)
-
-
-
+![Screenshot_20231016-004717_Termux](https://github.com/Bajingan-Z/RAKABOT/assets/95204908/264ef8d1-80d1-4f1f-b881-923d5ee5617c)
 
 # DOWNLOAD APK TERMUX 
 
