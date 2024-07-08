@@ -16,5 +16,5 @@ pkg install git
 git clone https://github.com/Bajingan-Z/RAKABOT
 cd RAKABOT
 git pull
-python RA_BOT.py
+python BOT.py
 
