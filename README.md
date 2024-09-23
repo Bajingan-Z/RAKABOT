@@ -6,11 +6,11 @@ Klick di 👉[SINI](https://termux.en.download.it/android), Untuk Mendownloadnya
 
 # SHOT CLONE EMAIL
 
-![Screenshot_20240923-071120_Termux](https://github.com/user-attachments/assets/cf4762fb-2462-43be-ad6b-9afcfe90ab66)
+![Screenshot_20240923-071120_Termux](https://github.com/user-attachments/assets/545653c0-5959-4d43-afa9-74e99d906faf)
 
 # SHOT BOT SHERE
 
-![Screenshot_20240923-071236_Termux](https://github.com/user-attachments/assets/71c997d9-5282-4562-a8c0-4bfeedd71e30)
+![Screenshot_20240923-071236_Termux](https://github.com/user-attachments/assets/14439927-0b41-4c2a-8bfd-f0ff394171e2)
 
 # INSTALL BAHAN
 `````
