@@ -2,7 +2,7 @@
 
 # APK TERMUX 
 
-Klick di 👉[SINI](https://f-droid.org/repo/com.termux_117.apk), Untuk Mendownloadnya
+Klick di 👉[SINI](https://termux.en.download.it/android), Untuk Mendownloadnya
 
 # SHOT CLONE EMAIL
 
