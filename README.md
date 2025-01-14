@@ -24,5 +24,5 @@ pkg install git
 git clone https://github.com/Bajingan-Z/RAKABOT
 cd RAKABOT
 git pull
-python eponer.py
+python bot_rbf.py
 
