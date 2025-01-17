@@ -14,15 +14,11 @@ Klick di 👉[SINI](https://termux.en.download.it/android), Untuk Mendownloadnya
 
 # INSTALL BAHAN
 `````
-rm -rf RAKABOT
 pkg update && pkg upgrade
 pkg install python
-pip install requests
-pip install bs4
-pip install rich
 pkg install git
-git clone https://github.com/Bajingan-Z/RAKABOT
+pip install requirements.txt
+git clone https://github.com/Nrfhsa/RAKABOT
 cd RAKABOT
-git pull
-python bot_rbf.py
+python fix_bot.py
 
